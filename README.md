@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ameer Murtaza 👋
 
-<!--
-**wadania228-byte/wadania228-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mathematics Graduate | Mathematics Teacher | Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a Mathematics graduate from **Emerson University Multan** with an interest in mathematics, education, problem-solving, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 **Education:** M.Sc. Mathematics, Emerson University Multan (2024–2026)
+- 📚 **Teaching:** Mathematics teacher at school and academy level
+- 🧮 **Interests:** Pure mathematics, mathematical problem-solving, and educational content
+- 💻 **Currently learning:** Python, data analysis, and GitHub
+- 🎯 **Current goal:** Preparing for government recruitment exams, including PPSC, while continuing to develop my professional skills
+
+## 🛠️ Skills & Learning
+
+- Mathematics and problem-solving
+- Mathematics teaching and test preparation
+- Python — learning
+- Data analysis with pandas — learning
+- Git and GitHub — learning
+
+## 📌 Explore My Profile
+
+- [My GitHub repositories](https://github.com/wadania228-byte?tab=repositories)
+- [My GitHub activity](https://github.com/wadania228-byte?tab=overview)
+
+## 🤝 Connect
+
+Feel free to explore my repositories and follow my learning journey. I welcome opportunities to learn, collaborate, and contribute to educational or mathematics-related projects.
+
+---
+
+*“Consistency, curiosity, and continuous learning lead to progress.”*
